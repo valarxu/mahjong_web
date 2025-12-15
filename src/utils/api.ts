@@ -25,7 +25,7 @@ interface PaginatedResponse<T> {
 async function request<T>(
   endpoint: string,
   options: RequestInit = {}
-): Promise<ApiResponse<T>> {
+): Promise<T> {
   try {
     const response = await fetch(`${API_BASE}${endpoint}`, {
       headers: {
@@ -40,13 +40,13 @@ async function request<T>(
     }
 
     const data = await response.json();
-    return data;
+    return data as T;
   } catch (error) {
     console.error('API请求失败:', error);
     return {
       success: false,
       message: error instanceof Error ? error.message : '网络请求失败',
-    };
+    } as unknown as T;
   }
 }
 
@@ -54,13 +54,13 @@ async function request<T>(
 export const friendsAPI = {
   // 获取好友列表
   async getFriends(): Promise<Friend[]> {
-    const response = await request<Friend[]>('/friends');
+    const response = await request<ApiResponse<Friend[]>>('/friends');
     return response.success ? response.data || [] : [];
   },
 
   // 添加好友
   async addFriend(name: string, emoji?: string): Promise<Friend | null> {
-    const response = await request<Friend>('/friends', {
+    const response = await request<ApiResponse<Friend>>('/friends', {
       method: 'POST',
       body: JSON.stringify({ name, emoji }),
     });
@@ -69,7 +69,7 @@ export const friendsAPI = {
 
   // 更新好友
   async updateFriend(id: string, name: string, emoji?: string): Promise<Friend | null> {
-    const response = await request<Friend>(`/friends/${id}`, {
+    const response = await request<ApiResponse<Friend>>(`/friends/${id}`, {
       method: 'PUT',
       body: JSON.stringify({ name, emoji }),
     });
@@ -78,7 +78,7 @@ export const friendsAPI = {
 
   // 删除好友
   async deleteFriend(id: string): Promise<boolean> {
-    const response = await request(`/friends/${id}`, {
+    const response = await request<ApiResponse<unknown>>(`/friends/${id}`, {
       method: 'DELETE',
     });
     return response.success;
@@ -108,7 +108,7 @@ export const recordsAPI = {
     type: '胜' | '负';
     score: string;
   }[]): Promise<GameRecord | null> {
-    const response = await request<GameRecord>('/records', {
+    const response = await request<ApiResponse<GameRecord>>('/records', {
       method: 'POST',
       body: JSON.stringify({ records }),
     });
@@ -117,7 +117,7 @@ export const recordsAPI = {
 
   // 删除游戏记录
   async deleteRecord(id: string): Promise<boolean> {
-    const response = await request(`/records/${id}`, {
+    const response = await request<ApiResponse<unknown>>(`/records/${id}`, {
       method: 'DELETE',
     });
     return response.success;
@@ -128,7 +128,7 @@ export const recordsAPI = {
 export const statsAPI = {
   // 获取统计数据
   async getStats(): Promise<Stats[]> {
-    const response = await request<Stats[]>('/stats');
+    const response = await request<ApiResponse<Stats[]>>('/stats');
     return response.success ? response.data || [] : [];
   },
 };
@@ -137,7 +137,7 @@ export const statsAPI = {
 export const aiAPI = {
   // 发送消息
   async sendMessage(message: string): Promise<{ reply: string; timestamp: string } | null> {
-    const response = await request<{ reply: string; timestamp: string }>('/ai/chat', {
+    const response = await request<ApiResponse<{ reply: string; timestamp: string }>>('/ai/chat', {
       method: 'POST',
       body: JSON.stringify({ message }),
     });
@@ -149,7 +149,7 @@ export const aiAPI = {
 export const healthAPI = {
   async checkHealth(): Promise<boolean> {
     try {
-      const response = await request('/health');
+      const response = await request<ApiResponse<unknown>>('/health');
       return response.success;
     } catch {
       return false;

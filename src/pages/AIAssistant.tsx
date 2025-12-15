@@ -43,14 +43,19 @@ const AIAssistant: React.FC = () => {
   const generateContextPrompt = () => {
     const totalGames = records.length;
     const playerStats = friends.map(friend => {
-      const playerRecords = records.filter(record => 
-        record.players.some((player: any) => player.name === friend.name)
+      const playerRecords = records.filter(record =>
+        record.records.some(r => r.friendId === friend.id)
       );
-      const wins = playerRecords.filter(record => record.winner === friend.name).length;
+      const wins = playerRecords.reduce((sum, record) => {
+        const entry = record.records.find(r => r.friendId === friend.id);
+        return sum + (entry && entry.type === '胜' ? 1 : 0);
+      }, 0);
       const games = playerRecords.length;
       const avgScore = games > 0 ? playerRecords.reduce((sum, record) => {
-        const playerScore = record.players.find((p: any) => p.name === friend.name)?.score || 0;
-        return sum + playerScore;
+        const entry = record.records.find(r => r.friendId === friend.id);
+        const score = entry ? parseInt(entry.score, 10) || 0 : 0;
+        const signed = entry && entry.type === '胜' ? score : -score;
+        return sum + signed;
       }, 0) / games : 0;
       
       return {
