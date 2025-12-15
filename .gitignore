@@ -98,8 +98,9 @@ jspm_packages/
 # PM2 ecosystem file
 ecosystem.config.js
 
-# Data files (uncomment if you want to exclude data from git)
-# data/
+# Data files (exclude local runtime data from git)
+data/
+api/data/
 
 # Original project folders - DO NOT COMMIT
 mahjong_friends/
