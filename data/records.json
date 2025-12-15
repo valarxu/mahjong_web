@@ -1,0 +1,1086 @@
+[
+  {
+    "id": "e18d05796923125404c8372209674e16",
+    "createTime": "2025-11-23T13:55:32.505Z",
+    "records": [
+      {
+        "friendId": "cc3a4179676f6ac603e724c44abddc22",
+        "friendName": "小石",
+        "type": "负",
+        "score": "14"
+      },
+      {
+        "friendId": "e33be08d676f6abb006f462c0aaf8ae1",
+        "friendName": "雅婷",
+        "type": "胜",
+        "score": "29"
+      },
+      {
+        "friendId": "50de7f5d676f6ab503e342ab51bceb56",
+        "friendName": "阿扬",
+        "type": "负",
+        "score": "12"
+      },
+      {
+        "friendId": "7258032d676f6a45006d9e9448d0eaf1",
+        "friendName": "吉吉",
+        "type": "负",
+        "score": "3"
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": "8e2c0a2f6923096704b52c954818daa1",
+    "createTime": "2025-11-23T13:17:27.744Z",
+    "records": [
+      {
+        "friendId": "cc3a4179676f6ac603e724c44abddc22",
+        "friendName": "小石",
+        "type": "负",
+        "score": "105"
+      },
+      {
+        "friendId": "e33be08d676f6abb006f462c0aaf8ae1",
+        "friendName": "雅婷",
+        "type": "胜",
+        "score": "84"
+      },
+      {
+        "friendId": "50de7f5d676f6ab503e342ab51bceb56",
+        "friendName": "阿扬",
+        "type": "负",
+        "score": "30"
+      },
+      {
+        "friendId": "7258032d676f6a45006d9e9448d0eaf1",
+        "friendName": "吉吉",
+        "type": "胜",
+        "score": "51"
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": "cc84495d6906214d01bd0d2a609f4cc5",
+    "createTime": "2025-11-01T15:03:41.835Z",
+    "records": [
+      {
+        "friendId": "cc3a4179676f6ac603e724c44abddc22",
+        "friendName": "小石",
+        "type": "负",
+        "score": "125"
+      },
+      {
+        "friendId": "e33be08d676f6abb006f462c0aaf8ae1",
+        "friendName": "雅婷",
+        "type": "负",
+        "score": "78"
+      },
+      {
+        "friendId": "50de7f5d676f6ab503e342ab51bceb56",
+        "friendName": "阿扬",
+        "type": "胜",
+        "score": "125"
+      },
+      {
+        "friendId": "7258032d676f6a45006d9e9448d0eaf1",
+        "friendName": "吉吉",
+        "type": "胜",
+        "score": "78"
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": "61d6cad9688e2a9a004541d24e884487",
+    "createTime": "2025-08-02T15:11:22.927Z",
+    "records": [
+      {
+        "friendId": "ce6b953c676f6a8803e5190c00cc2e24",
+        "friendName": "面包",
+        "type": "负",
+        "score": "190"
+      },
+      {
+        "friendId": "7258032d676f6a7d006da0f90948ecb3",
+        "friendName": "李猪",
+        "type": "负",
+        "score": "165"
+      },
+      {
+        "friendId": "7258032d676f6a45006d9e9448d0eaf1",
+        "friendName": "吉吉",
+        "type": "负",
+        "score": "660"
+      },
+      {
+        "friendId": "ff47e010676f6a74006eabcc1e3c37bb",
+        "friendName": "阿白",
+        "type": "胜",
+        "score": "230"
+      },
+      {
+        "friendId": "7258032d676f6a5b006da020291d9a89",
+        "friendName": "静静",
+        "type": "胜",
+        "score": "270"
+      },
+      {
+        "friendId": "e33be08d676f6a4f006f43533ff7740b",
+        "friendName": "琦琦",
+        "type": "胜",
+        "score": "515"
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": "82bba80968724a870526ed690f6b00c9",
+    "createTime": "2025-07-12T11:44:07.66Z",
+    "records": [
+      {
+        "friendId": "cc3a4179676f6ac603e724c44abddc22",
+        "friendName": "小石",
+        "type": "负",
+        "score": "82"
+      },
+      {
+        "friendId": "e33be08d676f6abb006f462c0aaf8ae1",
+        "friendName": "雅婷",
+        "type": "负",
+        "score": "98"
+      },
+      {
+        "friendId": "50de7f5d676f6ab503e342ab51bceb56",
+        "friendName": "阿扬",
+        "type": "胜",
+        "score": "171"
+      },
+      {
+        "friendId": "7258032d676f6a45006d9e9448d0eaf1",
+        "friendName": "吉吉",
+        "type": "胜",
+        "score": "9"
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": "e647148e68320429010b0282563fe665",
+    "createTime": "2025-05-24T17:38:49.367Z",
+    "records": [
+      {
+        "friendId": "8d0e0b0067c522cc003eaad57f95a9e9",
+        "friendName": "伟忠",
+        "type": "负",
+        "score": "308"
+      },
+      {
+        "friendId": "e33be08d676f6abb006f462c0aaf8ae1",
+        "friendName": "雅婷",
+        "type": "胜",
+        "score": "308"
+      },
+      {
+        "friendId": "50de7f5d676f6ab503e342ab51bceb56",
+        "friendName": "阿扬",
+        "type": "胜",
+        "score": "10"
+      },
+      {
+        "friendId": "0ecc3a0a676f6aa503df25365a1237e5",
+        "friendName": "光光",
+        "type": "负",
+        "score": "10"
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": "eea1754d6831e8e20107c157319991ae",
+    "createTime": "2025-05-24T15:42:26.673Z",
+    "records": [
+      {
+        "friendId": "8d0e0b0067c522cc003eaad57f95a9e9",
+        "friendName": "伟忠",
+        "type": "负",
+        "score": "96"
+      },
+      {
+        "friendId": "e33be08d676f6abb006f462c0aaf8ae1",
+        "friendName": "雅婷",
+        "type": "负",
+        "score": "237"
+      },
+      {
+        "friendId": "50de7f5d676f6ab503e342ab51bceb56",
+        "friendName": "阿扬",
+        "type": "负",
+        "score": "316"
+      },
+      {
+        "friendId": "0ecc3a0a676f6aa503df25365a1237e5",
+        "friendName": "光光",
+        "type": "胜",
+        "score": "649"
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": "614937966830b55300f45dc12c8d04a0",
+    "createTime": "2025-05-23T17:50:11.329Z",
+    "records": [
+      {
+        "friendId": "8d0e0b0067c522cc003eaad57f95a9e9",
+        "friendName": "伟忠",
+        "type": "负",
+        "score": "318"
+      },
+      {
+        "friendId": "0ecc3a0a676f6aa503df25365a1237e5",
+        "friendName": "光光",
+        "type": "胜",
+        "score": "551"
+      },
+      {
+        "friendId": "7258032d676f6a45006d9e9448d0eaf1",
+        "friendName": "吉吉",
+        "type": "胜",
+        "score": "56"
+      },
+      {
+        "friendId": "50de7f5d676f6ab503e342ab51bceb56",
+        "friendName": "阿扬",
+        "type": "负",
+        "score": "289"
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": "c0a2d8e468309df300f3f44d60079c16",
+    "createTime": "2025-05-23T16:10:27.014Z",
+    "records": [
+      {
+        "friendId": "8d0e0b0067c522cc003eaad57f95a9e9",
+        "friendName": "伟忠",
+        "type": "负",
+        "score": "302"
+      },
+      {
+        "friendId": "50de7f5d676f6ab503e342ab51bceb56",
+        "friendName": "阿扬",
+        "type": "胜",
+        "score": "343"
+      },
+      {
+        "friendId": "0ecc3a0a676f6aa503df25365a1237e5",
+        "friendName": "光光",
+        "type": "胜",
+        "score": "35"
+      },
+      {
+        "friendId": "7258032d676f6a45006d9e9448d0eaf1",
+        "friendName": "吉吉",
+        "type": "负",
+        "score": "76"
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": "6c670e5d6828bcad007a15ab6e01e7ed",
+    "createTime": "2025-05-17T16:43:25.967Z",
+    "records": [
+      {
+        "friendId": "8d0e0b0067c522cc003eaad57f95a9e9",
+        "friendName": "伟忠",
+        "type": "负",
+        "score": "307"
+      },
+      {
+        "friendId": "50de7f5d676f6ab503e342ab51bceb56",
+        "friendName": "阿扬",
+        "type": "负",
+        "score": "70"
+      },
+      {
+        "friendId": "0ecc3a0a676f6aa503df25365a1237e5",
+        "friendName": "光光",
+        "type": "胜",
+        "score": "150"
+      },
+      {
+        "friendId": "7258032d676f6a45006d9e9448d0eaf1",
+        "friendName": "吉吉",
+        "type": "胜",
+        "score": "227"
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": "557814e168289c1f0077cf622d596eb3",
+    "createTime": "2025-05-17T14:24:31.578Z",
+    "records": [
+      {
+        "friendId": "8d0e0b0067c522cc003eaad57f95a9e9",
+        "friendName": "伟忠",
+        "type": "负",
+        "score": "42"
+      },
+      {
+        "friendId": "0ecc3a0a676f6aa503df25365a1237e5",
+        "friendName": "光光",
+        "type": "负",
+        "score": "306"
+      },
+      {
+        "friendId": "50de7f5d676f6ab503e342ab51bceb56",
+        "friendName": "阿扬",
+        "type": "胜",
+        "score": "212"
+      },
+      {
+        "friendId": "7258032d676f6a45006d9e9448d0eaf1",
+        "friendName": "吉吉",
+        "type": "胜",
+        "score": "136"
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": "82bba8096828809b0077f5d03f3571d4",
+    "createTime": "2025-05-17T12:27:07.156Z",
+    "records": [
+      {
+        "friendId": "8d0e0b0067c522cc003eaad57f95a9e9",
+        "friendName": "伟忠",
+        "type": "胜",
+        "score": "372"
+      },
+      {
+        "friendId": "0ecc3a0a676f6aa503df25365a1237e5",
+        "friendName": "光光",
+        "type": "负",
+        "score": "244"
+      },
+      {
+        "friendId": "7258032d676f6a45006d9e9448d0eaf1",
+        "friendName": "吉吉",
+        "type": "负",
+        "score": "316"
+      },
+      {
+        "friendId": "50de7f5d676f6ab503e342ab51bceb56",
+        "friendName": "阿扬",
+        "type": "胜",
+        "score": "188"
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": "80a8bd4f6803978a017653ba070417e9",
+    "createTime": "2025-04-19T12:31:06.548Z",
+    "records": [
+      {
+        "friendId": "8d0e0b0067c522cc003eaad57f95a9e9",
+        "friendName": "伟忠",
+        "type": "负",
+        "score": "66"
+      },
+      {
+        "friendId": "0ecc3a0a676f6aa503df25365a1237e5",
+        "friendName": "光光",
+        "type": "胜",
+        "score": "178"
+      },
+      {
+        "friendId": "7258032d676f6a7d006da0f90948ecb3",
+        "friendName": "李猪",
+        "type": "负",
+        "score": "57"
+      },
+      {
+        "friendId": "7258032d676f6a45006d9e9448d0eaf1",
+        "friendName": "吉吉",
+        "type": "负",
+        "score": "55"
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": "6a580dc9680389d50173c9d55de63925",
+    "createTime": "2025-04-19T11:32:37.49Z",
+    "records": [
+      {
+        "friendId": "8d0e0b0067c522cc003eaad57f95a9e9",
+        "friendName": "伟忠",
+        "type": "负",
+        "score": "63"
+      },
+      {
+        "friendId": "0ecc3a0a676f6aa503df25365a1237e5",
+        "friendName": "光光",
+        "type": "负",
+        "score": "311"
+      },
+      {
+        "friendId": "7258032d676f6a7d006da0f90948ecb3",
+        "friendName": "李猪",
+        "type": "胜",
+        "score": "646"
+      },
+      {
+        "friendId": "7258032d676f6a45006d9e9448d0eaf1",
+        "friendName": "吉吉",
+        "type": "负",
+        "score": "272"
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": "1b9686ec68036da20172908b2ceae084",
+    "createTime": "2025-04-19T09:32:18.138Z",
+    "records": [
+      {
+        "friendId": "8d0e0b0067c522cc003eaad57f95a9e9",
+        "friendName": "伟忠",
+        "type": "负",
+        "score": "328"
+      },
+      {
+        "friendId": "0ecc3a0a676f6aa503df25365a1237e5",
+        "friendName": "光光",
+        "type": "负",
+        "score": "122"
+      },
+      {
+        "friendId": "7258032d676f6a7d006da0f90948ecb3",
+        "friendName": "李猪",
+        "type": "胜",
+        "score": "332"
+      },
+      {
+        "friendId": "7258032d676f6a45006d9e9448d0eaf1",
+        "friendName": "吉吉",
+        "type": "胜",
+        "score": "118"
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": "d33be422680353ef0171a7654c3adefd",
+    "createTime": "2025-04-19T07:42:39.687Z",
+    "records": [
+      {
+        "friendId": "8d0e0b0067c522cc003eaad57f95a9e9",
+        "friendName": "伟忠",
+        "type": "胜",
+        "score": "206"
+      },
+      {
+        "friendId": "7258032d676f6a7d006da0f90948ecb3",
+        "friendName": "李猪",
+        "type": "胜",
+        "score": "145"
+      },
+      {
+        "friendId": "0ecc3a0a676f6aa503df25365a1237e5",
+        "friendName": "光光",
+        "type": "负",
+        "score": "4"
+      },
+      {
+        "friendId": "7258032d676f6a45006d9e9448d0eaf1",
+        "friendName": "吉吉",
+        "type": "负",
+        "score": "347"
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": "65dc625867e857f90025b78966a4d7ad",
+    "createTime": "2025-03-29T20:28:41.853Z",
+    "records": [
+      {
+        "friendId": "8d0e0b0067c522cc003eaad57f95a9e9",
+        "friendName": "伟忠",
+        "type": "负",
+        "score": "360"
+      },
+      {
+        "friendId": "0ecc3a0a676f6aa503df25365a1237e5",
+        "friendName": "光光",
+        "type": "胜",
+        "score": "311"
+      },
+      {
+        "friendId": "50de7f5d676f6ab503e342ab51bceb56",
+        "friendName": "阿扬",
+        "type": "胜",
+        "score": "88"
+      },
+      {
+        "friendId": "7258032d676f6a45006d9e9448d0eaf1",
+        "friendName": "吉吉",
+        "type": "负",
+        "score": "39"
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": "0e7893fb67e80961002381da76ccc8be",
+    "createTime": "2025-03-29T14:53:21.749Z",
+    "records": [
+      {
+        "friendId": "8d0e0b0067c522cc003eaad57f95a9e9",
+        "friendName": "伟忠",
+        "type": "胜",
+        "score": "200"
+      },
+      {
+        "friendId": "50de7f5d676f6ab503e342ab51bceb56",
+        "friendName": "阿扬",
+        "type": "负",
+        "score": "179"
+      },
+      {
+        "friendId": "0ecc3a0a676f6aa503df25365a1237e5",
+        "friendName": "光光",
+        "type": "负",
+        "score": "306"
+      },
+      {
+        "friendId": "7258032d676f6a45006d9e9448d0eaf1",
+        "friendName": "吉吉",
+        "type": "胜",
+        "score": "285"
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": "e23fc3b267e7fde70022949167d4c7be",
+    "createTime": "2025-03-29T14:04:23.443Z",
+    "records": [
+      {
+        "friendId": "8d0e0b0067c522cc003eaad57f95a9e9",
+        "friendName": "伟忠",
+        "type": "负",
+        "score": "180"
+      },
+      {
+        "friendId": "50de7f5d676f6ab503e342ab51bceb56",
+        "friendName": "阿扬",
+        "type": "胜",
+        "score": "158"
+      },
+      {
+        "friendId": "0ecc3a0a676f6aa503df25365a1237e5",
+        "friendName": "光光",
+        "type": "胜",
+        "score": "350"
+      },
+      {
+        "friendId": "7258032d676f6a45006d9e9448d0eaf1",
+        "friendName": "吉吉",
+        "type": "负",
+        "score": "328"
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": "2b83cb1667e7cb790020ba7c3aa08045",
+    "createTime": "2025-03-29T10:29:13.195Z",
+    "records": [
+      {
+        "friendId": "8d0e0b0067c522cc003eaad57f95a9e9",
+        "friendName": "伟忠",
+        "type": "胜",
+        "score": "295"
+      },
+      {
+        "friendId": "50de7f5d676f6ab503e342ab51bceb56",
+        "friendName": "阿扬",
+        "type": "负",
+        "score": "343"
+      },
+      {
+        "friendId": "0ecc3a0a676f6aa503df25365a1237e5",
+        "friendName": "光光",
+        "type": "负",
+        "score": "101"
+      },
+      {
+        "friendId": "7258032d676f6a45006d9e9448d0eaf1",
+        "friendName": "吉吉",
+        "type": "胜",
+        "score": "149"
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": "9f86c65667e7b128001fb30078e59a73",
+    "createTime": "2025-03-29T08:36:56.334Z",
+    "records": [
+      {
+        "friendId": "8d0e0b0067c522cc003eaad57f95a9e9",
+        "friendName": "伟忠",
+        "type": "负",
+        "score": "346"
+      },
+      {
+        "friendId": "50de7f5d676f6ab503e342ab51bceb56",
+        "friendName": "阿扬",
+        "type": "负",
+        "score": "35"
+      },
+      {
+        "friendId": "0ecc3a0a676f6aa503df25365a1237e5",
+        "friendName": "光光",
+        "type": "胜",
+        "score": "486"
+      },
+      {
+        "friendId": "7258032d676f6a45006d9e9448d0eaf1",
+        "friendName": "吉吉",
+        "type": "负",
+        "score": "105"
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": "494059f767dee2bd005fc5fc6dc9f016",
+    "createTime": "2025-03-22T16:18:05.314Z",
+    "records": [
+      {
+        "friendId": "8d0e0b0067c522cc003eaad57f95a9e9",
+        "friendName": "伟忠",
+        "type": "胜",
+        "score": "408"
+      },
+      {
+        "friendId": "0ecc3a0a676f6aa503df25365a1237e5",
+        "friendName": "光光",
+        "type": "负",
+        "score": "66"
+      },
+      {
+        "friendId": "50de7f5d676f6ab503e342ab51bceb56",
+        "friendName": "阿扬",
+        "type": "负",
+        "score": "337"
+      },
+      {
+        "friendId": "7258032d676f6a45006d9e9448d0eaf1",
+        "friendName": "吉吉",
+        "type": "负",
+        "score": "5"
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": "5c644fb367d59a8f0115334a67f2424c",
+    "createTime": "2025-03-15T15:19:43.35Z",
+    "records": [
+      {
+        "friendId": "8d0e0b0067c522cc003eaad57f95a9e9",
+        "friendName": "伟忠",
+        "type": "负",
+        "score": "165"
+      },
+      {
+        "friendId": "50de7f5d676f6ab503e342ab51bceb56",
+        "friendName": "阿扬",
+        "type": "负",
+        "score": "324"
+      },
+      {
+        "friendId": "0ecc3a0a676f6aa503df25365a1237e5",
+        "friendName": "光光",
+        "type": "胜",
+        "score": "91"
+      },
+      {
+        "friendId": "7258032d676f6a45006d9e9448d0eaf1",
+        "friendName": "吉吉",
+        "type": "胜",
+        "score": "398"
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": "faabc62d67d57ced0114a99020d64458",
+    "createTime": "2025-03-15T13:13:17.737Z",
+    "records": [
+      {
+        "friendId": "8d0e0b0067c522cc003eaad57f95a9e9",
+        "friendName": "伟忠",
+        "type": "负",
+        "score": "1"
+      },
+      {
+        "friendId": "50de7f5d676f6ab503e342ab51bceb56",
+        "friendName": "阿扬",
+        "type": "负",
+        "score": "176"
+      },
+      {
+        "friendId": "0ecc3a0a676f6aa503df25365a1237e5",
+        "friendName": "光光",
+        "type": "胜",
+        "score": "539"
+      },
+      {
+        "friendId": "7258032d676f6a45006d9e9448d0eaf1",
+        "friendName": "吉吉",
+        "type": "负",
+        "score": "362"
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": "7456afe067d5589001136dd834916459",
+    "createTime": "2025-03-15T10:38:08.783Z",
+    "records": [
+      {
+        "friendId": "50de7f5d676f6ab503e342ab51bceb56",
+        "friendName": "阿扬",
+        "type": "负",
+        "score": "299"
+      },
+      {
+        "friendId": "8d0e0b0067c522cc003eaad57f95a9e9",
+        "friendName": "伟忠",
+        "type": "负",
+        "score": "51"
+      },
+      {
+        "friendId": "0ecc3a0a676f6aa503df25365a1237e5",
+        "friendName": "光光",
+        "type": "胜",
+        "score": "248"
+      },
+      {
+        "friendId": "7258032d676f6a45006d9e9448d0eaf1",
+        "friendName": "吉吉",
+        "type": "胜",
+        "score": "102"
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": "ab021c2d67cc79bd00abd28819b8802a",
+    "createTime": "2025-03-08T17:09:17.475Z",
+    "records": [
+      {
+        "friendId": "50de7f5d676f6ab503e342ab51bceb56",
+        "friendName": "阿扬",
+        "type": "胜",
+        "score": "297"
+      },
+      {
+        "friendId": "8d0e0b0067c522cc003eaad57f95a9e9",
+        "friendName": "伟宗",
+        "type": "负",
+        "score": "100"
+      },
+      {
+        "friendId": "cc3a4179676f6ac603e724c44abddc22",
+        "friendName": "小石",
+        "type": "负",
+        "score": "309"
+      },
+      {
+        "friendId": "0ecc3a0a676f6aa503df25365a1237e5",
+        "friendName": "光光",
+        "type": "胜",
+        "score": "112"
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": "5c644fb367cb30da009868d737fe784c",
+    "createTime": "2025-03-07T17:46:02.642Z",
+    "records": [
+      {
+        "friendId": "8d0e0b0067c522cc003eaad57f95a9e9",
+        "friendName": "伟宗",
+        "type": "胜",
+        "score": "120"
+      },
+      {
+        "friendId": "50de7f5d676f6ab503e342ab51bceb56",
+        "friendName": "阿扬",
+        "type": "负",
+        "score": "108"
+      },
+      {
+        "friendId": "0ecc3a0a676f6aa503df25365a1237e5",
+        "friendName": "光光",
+        "type": "胜",
+        "score": "338"
+      },
+      {
+        "friendId": "7258032d676f6a45006d9e9448d0eaf1",
+        "friendName": "吉吉",
+        "type": "负",
+        "score": "350"
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": "db3a755667c5a18f0048042e0c882a56",
+    "createTime": "2025-03-03T12:33:19.058Z",
+    "records": [
+      {
+        "friendId": "8d0e0b0067c522cc003eaad57f95a9e9",
+        "friendName": "伟宗",
+        "type": "胜",
+        "score": "213"
+      },
+      {
+        "friendId": "cc3a4179676f6ac603e724c44abddc22",
+        "friendName": "小石",
+        "type": "负",
+        "score": "158"
+      },
+      {
+        "friendId": "e33be08d676f6abb006f462c0aaf8ae1",
+        "friendName": "雅婷",
+        "type": "负",
+        "score": "85"
+      },
+      {
+        "friendId": "50de7f5d676f6ab503e342ab51bceb56",
+        "friendName": "阿扬",
+        "type": "负",
+        "score": "14"
+      },
+      {
+        "friendId": "0ecc3a0a676f6aa503df25365a1237e5",
+        "friendName": "光光",
+        "type": "胜",
+        "score": "44"
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": "3612033d67c5234900401bb22d0e0c03",
+    "createTime": "2025-03-03T03:34:33.451Z",
+    "records": [
+      {
+        "friendId": "8d0e0b0067c522cc003eaad57f95a9e9",
+        "friendName": "伟宗",
+        "type": "负",
+        "score": "125"
+      },
+      {
+        "friendId": "50de7f5d676f6ab503e342ab51bceb56",
+        "friendName": "阿扬",
+        "type": "胜",
+        "score": "167"
+      },
+      {
+        "friendId": "0ecc3a0a676f6aa503df25365a1237e5",
+        "friendName": "光光",
+        "type": "负",
+        "score": "74"
+      },
+      {
+        "friendId": "7258032d676f6a45006d9e9448d0eaf1",
+        "friendName": "吉吉",
+        "type": "胜",
+        "score": "32"
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": "3a12ed1c67b4820602d3ee1d7cabc0d4",
+    "createTime": "2025-02-18T12:50:14.029Z",
+    "records": [
+      {
+        "friendId": "cc3a4179676f6ac603e724c44abddc22",
+        "friendName": "小石",
+        "type": "负",
+        "score": "249"
+      },
+      {
+        "friendId": "50de7f5d676f6ab503e342ab51bceb56",
+        "friendName": "阿扬",
+        "type": "负",
+        "score": "131"
+      },
+      {
+        "friendId": "e33be08d676f6abb006f462c0aaf8ae1",
+        "friendName": "雅婷",
+        "type": "胜",
+        "score": "78"
+      },
+      {
+        "friendId": "0ecc3a0a676f6aa503df25365a1237e5",
+        "friendName": "光光",
+        "type": "胜",
+        "score": "188"
+      },
+      {
+        "friendId": "7258032d676f6a45006d9e9448d0eaf1",
+        "friendName": "吉吉",
+        "type": "胜",
+        "score": "114"
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": "5e900b7167a83f81025a438b5894b62c",
+    "createTime": "2025-02-09T05:39:13.819Z",
+    "records": [
+      {
+        "friendId": "e33be08d676f6abb006f462c0aaf8ae1",
+        "friendName": "雅婷",
+        "type": "胜",
+        "score": "123"
+      },
+      {
+        "friendId": "cc3a4179676f6ac603e724c44abddc22",
+        "friendName": "小石",
+        "type": "负",
+        "score": "180"
+      },
+      {
+        "friendId": "50de7f5d676f6ab503e342ab51bceb56",
+        "friendName": "阿扬",
+        "type": "负",
+        "score": "140"
+      },
+      {
+        "friendId": "7258032d676f6a45006d9e9448d0eaf1",
+        "friendName": "吉吉",
+        "type": "胜",
+        "score": "130"
+      },
+      {
+        "friendId": "0ecc3a0a676f6aa503df25365a1237e5",
+        "friendName": "光光",
+        "type": "胜",
+        "score": "67"
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": "0ecc3a0a67828add048a18cb7b6bb410",
+    "createTime": "2025-01-11T15:14:37.698Z",
+    "records": [
+      {
+        "friendId": "cc3a4179676f6ac603e724c44abddc22",
+        "friendName": "小石",
+        "type": "负",
+        "score": "84"
+      },
+      {
+        "friendId": "e33be08d676f6abb006f462c0aaf8ae1",
+        "friendName": "雅婷",
+        "type": "胜",
+        "score": "13"
+      },
+      {
+        "friendId": "50de7f5d676f6ab503e342ab51bceb56",
+        "friendName": "阿扬",
+        "type": "胜",
+        "score": "94"
+      },
+      {
+        "friendId": "7258032d676f6a45006d9e9448d0eaf1",
+        "friendName": "吉吉",
+        "type": "负",
+        "score": "23"
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": "11ad5023678256ac011abb497a41784f",
+    "createTime": "2025-01-11T11:31:56.781Z",
+    "records": [
+      {
+        "friendId": "cc3a4179676f6ac603e724c44abddc22",
+        "friendName": "小石",
+        "type": "胜",
+        "score": "76"
+      },
+      {
+        "friendId": "e33be08d676f6abb006f462c0aaf8ae1",
+        "friendName": "雅婷",
+        "type": "负",
+        "score": "42"
+      },
+      {
+        "friendId": "50de7f5d676f6ab503e342ab51bceb56",
+        "friendName": "阿扬",
+        "type": "负",
+        "score": "103"
+      },
+      {
+        "friendId": "7258032d676f6a45006d9e9448d0eaf1",
+        "friendName": "吉吉",
+        "type": "胜",
+        "score": "69"
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": "b01b851767823b4f048fd4c41a04a06a",
+    "createTime": "2025-01-11T09:35:11.105Z",
+    "records": [
+      {
+        "friendId": "cc3a4179676f6ac603e724c44abddc22",
+        "friendName": "小石",
+        "type": "胜",
+        "score": "49"
+      },
+      {
+        "friendId": "e33be08d676f6abb006f462c0aaf8ae1",
+        "friendName": "雅婷",
+        "type": "胜",
+        "score": "57"
+      },
+      {
+        "friendId": "50de7f5d676f6ab503e342ab51bceb56",
+        "friendName": "阿扬",
+        "type": "负",
+        "score": "101"
+      },
+      {
+        "friendId": "7258032d676f6a45006d9e9448d0eaf1",
+        "friendName": "吉吉",
+        "type": "负",
+        "score": "5"
+      }
+    ],
+    "totalScore": 0
+  }
+]
