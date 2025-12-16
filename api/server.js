@@ -18,7 +18,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
 // 数据目录
-const DATA_DIR = process.env.DATA_DIR || join(__dirname, '../data');
+const DATA_DIR = join(__dirname, '../data');
 
 // 确保数据目录存在
 async function ensureDataDir() {
